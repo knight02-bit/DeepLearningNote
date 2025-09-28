@@ -1,4 +1,3 @@
 pytorchLearn/dataset
-pytorchLearn/dataloader
 pytorchLearn/images
-pytorchLearn/logs
+pytorchLearn/logs*

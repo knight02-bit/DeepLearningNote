@@ -8,7 +8,7 @@ test_data = torchvision.datasets.CIFAR10(root="./dataset", transform=torchvision
 # shuffle: True 不同的epoch顺序会打乱， False不打乱
 tset_loader = DataLoader(dataset= test_data, batch_size=64, shuffle=True, num_workers=0, drop_last=True)
 
-writer = SummaryWriter("dataloader")
+writer = SummaryWriter("logs_dataloader")
 
 for epoch in range(2):
     step = 0
