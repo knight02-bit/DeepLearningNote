@@ -23,6 +23,24 @@
 
 
 
+修改 torchvision 下载预训练模型的默认路径
+
+windows环境通常默认是
+
+```
+C:\Users\<username>\.cache\torch\hub\checkpoints\
+```
+
+把模型缓存目录改掉，在cmd中：
+
+```
+setx TORCH_HOME "K:\torch_models"
+```
+
+
+
+
+
 ## DeepLearning
 
 [《动手学深度学习》2.0.0 documentation](https://zh.d2l.ai/index.html)
