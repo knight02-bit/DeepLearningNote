@@ -1,3 +1,5 @@
 pytorchLearn/dataset
 pytorchLearn/images
 pytorchLearn/logs*
+
+*.pth
