@@ -1,5 +1,7 @@
 pytorchLearn/dataset
 pytorchLearn/images
 pytorchLearn/logs*
+pytorchLearn/compass_model
 
 *.pth
+*.pyc
