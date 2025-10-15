@@ -19,7 +19,7 @@
 
 [ PyTorch 2.4 documentation](https://docs.pytorch.org/docs/2.4/index.html)
 
-[PyTorch深度学习快速入门教程【小土堆】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1hE411t7RN)
+- [x]  [PyTorch深度学习快速入门教程【小土堆】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1hE411t7RN)
 
 
 
@@ -45,4 +45,7 @@ setx TORCH_HOME "K:\torch_models"
 
 [《动手学深度学习》2.0.0 documentation](https://zh.d2l.ai/index.html)
 
-[图解大模型：生成式AI原理与实战](https://weread.qq.com/web/reader/14032420813ab9f2bg0110b9)
+
+## langchain
+
+[LangChain 集成 - 智谱AI开放文档](https://docs.bigmodel.cn/cn/guide/develop/langchain/introduction#langchain)

@@ -3,5 +3,14 @@ pytorchLearn/images
 pytorchLearn/logs*
 pytorchLearn/compass_model
 
+LiMuDeepLearning/data
+
 *.pth
+*.pyc
+
+.idea/
+**/.idea/
+
+__pycache__/
+**/__pycache__/
 *.pyc
