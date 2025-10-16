@@ -49,3 +49,5 @@ setx TORCH_HOME "K:\torch_models"
 ## langchain
 
 [LangChain 集成 - 智谱AI开放文档](https://docs.bigmodel.cn/cn/guide/develop/langchain/introduction#langchain)
+
+[ LangChain --- Tutorials  🦜️🔗 ](https://python.langchain.com/docs/tutorials/)
