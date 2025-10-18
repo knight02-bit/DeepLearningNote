@@ -39,8 +39,6 @@ setx TORCH_HOME "K:\torch_models"
 
 
 
-
-
 ## DeepLearning
 
 [《动手学深度学习》2.0.0 documentation](https://zh.d2l.ai/index.html)
