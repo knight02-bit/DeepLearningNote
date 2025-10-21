@@ -8,8 +8,9 @@ LiMuDeepLearning/data
 *.pth
 *.pyc
 
-.idea/
-**/.idea/
+.env
+# .idea/
+# **/.idea/
 
 __pycache__/
 **/__pycache__/

@@ -9,8 +9,12 @@
 [download.pytorch.org/whl/](https://download.pytorch.org/whl/)
 
 
-
 > [cuda12.1版本的pytorch环境安装记录-CSDN](https://blog.csdn.net/qq_45902580/article/details/144246640)
+
+## 环境变量
++ `OPENAI_API_KEY`等密钥(配置在项目的`.env`文件中，运行相关demo前请设置环境变量)
+
+
 
 # Something
 记录深度学习
