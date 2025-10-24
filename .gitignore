@@ -4,6 +4,7 @@ pytorchLearn/logs*
 pytorchLearn/compass_model
 
 LiMuDeepLearning/data
+LiMuDeepLearning/d2l-zh
 
 *.pth
 *.pyc
